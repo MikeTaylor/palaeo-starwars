@@ -8,6 +8,8 @@ This respository contains an in-progress paper that will document the origin of 
 * **David West Reynolds.** XXX affiliation to follow.
 * **Mathew J. Wedel.** College of Osteopathic Medicine of the Pacific and College of Podiatric Medicine, Western University of Health Sciences, Pomona, CA, USA.
 
+Feel free to read [the in-progress manuscript](TaylorEtAl-Carnegie-Diplodocus-in-Star-Wars.md).
+
 Anyone is welcome to [file issues](https://github.com/MikeTaylor/palaeo-starwars/issues).
 
 ## Copyright and License
