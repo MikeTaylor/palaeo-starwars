@@ -1,4 +1,4 @@
-># The Carnegie _Diplodocus_ in _Star Wars_: the convoluted origin of the Krayt Dragon
+# The Carnegie _Diplodocus_ in _Star Wars_: the convoluted origin of the Krayt Dragon
 
 _Authors as in [README.md](README.md)_.
 
