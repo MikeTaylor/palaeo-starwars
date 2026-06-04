@@ -1,4 +1,4 @@
-# The Carnegie _Diplodocus_ in _Star Wars_: the convoluted origin of the Krayt Dragon
+># The Carnegie _Diplodocus_ in _Star Wars_: the convoluted origin of the Krayt Dragon
 
 _Authors as in [README.md](README.md)_.
 
@@ -6,7 +6,7 @@ _Authors as in [README.md](README.md)_.
 
 > XXX To be written after the paper is complete.
 
-**Key words:** XXX
+**Key words:** Dinosaur, sauropod, _Diplodocus_, Carnegie, _One of Our Dinosaurs is Missing_, _Star Wars_.
 
 
 <!-- md2toc -l 2 TaylorEtAl-Carnegie-Diplodocus-in-Star-Wars.md -->
@@ -35,7 +35,12 @@ XXX Cultural significance of _Diplodocus_ and _Star Wars_.
 
 ### Institutional abbreviations
 
-XXX CM, HMNS, NHMUK
+* **BMNH** -- British Museum of Natural History, London, England. (Now the Natural History Museum, using the abbreviation NHMUK.)
+* **CM** -- Carnegie Museum of Natural History, Pittsburgh, Pennsylvania, USA.
+* **HMNS** -- Houston Museum of Natural Science, Houston, Texas, USA
+* **NHMUK** -- (See BMNH)
+
+XXX More to come
 
 
 ### Anatomical abbreviations
@@ -49,26 +54,72 @@ XXX Laminae used to show that Kryt Dragon dorsals are _Diplodocus_.
 
 ### _Diplodocus_
 
-XXX Iconic dinosaur, named by Marsh on inadequate caudals, _D_. _carnegii_ nearly complete, now known from ?three species (_longus_, _carnegii_, _hallorum_), _D_. _hayi_ now has its own genus _Galeamopus_, many skeletons in museums around the world -- not only Carnegie ones e.g. USNM, Frankfurt, Denver, ?Sauriermuseum.
+XXX Iconic dinosaur
+
+XXX Named by Marsh on inadequate caudals
+
+XXX Meaning of name
+
+XXX _D_. _carnegii_ nearly complete
+
+XXX Genus now known from ?three species (_longus_, _carnegii_, _hallorum_)
+
+XXX _D_. _hayi_ now has its own genus _Galeamopus_
+
+XXX Many skeletons in museums around the world -- not only Carnegie ones e.g. USNM, Frankfurt, Denver, ?Sauriermuseum.
 
 
 ### The Carnegie _Diplodocus_
 
-XXX Carnegie a self-made man, desire to leave a legacy, funding museums, inspired by newspaper, funded expedition, discovery around 4 July, Hatcher's monograph.
+XXX Carnegie a self-made man
+
+XXX Desire to leave a legacy: funding museums and libraries
+
+XXX Inspired by newspaper article, funded expedition
+
+XXX Discovery around 4 July
+
+XXX Hatcher's monograph.
+
 
 
 ### The casts of _Diplodocus_
 
-XXX Skibo Castle, King Edward VII's request for a _Diplodocus_, Holland's suggestion of casting, idea to make multiple casts, locations where they were sent, cultural ubiquiry, most seen individual dinosaur, concrete cast in Vernal, second-generation molds and further casts, scan-and-print bronze model in front of NHM.
+XXX Carnegie's print at Skibo Castle
+
+XXX King Edward VII's request for a _Diplodocus_
+
+XXX Holland's suggestion of casting a replica
+
+XXX Idea to make multiple casts
+
+XXX Locations where they were sent
+
+XXX Concrete cast in Vernal
+
+XXX Second-generation molds and further casts
+
+XXX Scan-and-print bronze model in front of NHM
+
+XXX Consequent cultural ubiquity: most seen individual dinosaur in the world
+
 
 
 ## The fate of the molds
 
-XXX Pittsburgh, PA -> Rocky Mount, NC -> Houston, TX -> ???
+XXX Pittsburgh, PA
+
+XXX Rocky Mount, NC
+
+XXX Houston, TX (used for HMNS "_D_." _hayi_ mount
+
+XXX Then where?
 
 
 
 ## _One of Our Dinosaurs is Missing_
+
+XXX Source of dinosaur skeleton (or two skeletons?)
 
 XXX Screencaps show (what? Real dorsals? Fake cervicals? What about appendicular elements?)
 
@@ -76,13 +127,19 @@ XXX Screencaps show (what? Real dorsals? Fake cervicals? What about appendicular
 
 ## _Star Wars_
 
-XXX _OoODiM_ prop loaded into spare space in cargo plane, used opportunistically, subsequent naming as "Krayt Dragon", later development of this monster.
+XXX _OoODiM_ prop loaded into spare space in cargo plane, used opportunistically
+
+XXX Subsequent naming as "Krayt Dragon"
+
+XXX Later development of this monster.
 
 
 
 ## Return to Tunisia
 
 XXX David's documentary.
+
+XXX Comparison of remaining elements to Carnegie _Diplodocus_.
 
 
 
@@ -108,7 +165,18 @@ XXX More to come.
 
 ## Figure captions
 
-XXX The Carnegie _Diplodocus_, quarry photo, Hatcher's skeletal reconstruction, one of the casts, Galeamopos mount, _OoODiM_ screencaps, _Star Wars_ screencaps, return to Tunisia screencaps, photos of recovered Tunisian elements (compared with Hatcher's plates).
+* The Carnegie _Diplodocus_
+* Quarry photo
+* Hatcher's skeletal reconstruction
+* One of the casts (probablty London?)
+* _Galeamopos_ mount
+* _OoODiM_ screencaps
+* _Star Wars_ screencaps
+* Return to Tunisia screencaps
+* Photos of recovered Tunisian elements (compared with Hatcher's plates).
+
+XXX More to come
+
 
 
 
