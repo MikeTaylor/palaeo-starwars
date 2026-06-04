@@ -4,7 +4,7 @@ _Authors as in [README.md](README.md)_.
 
 ## Abstract
 
-> XXX
+> XXX To be written after the paper is complete.
 
 **Key words:** XXX
 
@@ -30,17 +30,17 @@ _Authors as in [README.md](README.md)_.
 
 ## Introduction
 
-XXX
+XXX Cultural significance of _Diplodocus_ and _Star Wars_.
 
 
 ### Institutional abbreviations
 
-XXX
+XXX CM, HMNS, NHMUK
 
 
 ### Anatomical abbreviations
 
-XXX
+XXX Laminae used to show that Kryt Dragon dorsals are _Diplodocus_.
 
 
 
@@ -49,17 +49,17 @@ XXX
 
 ### _Diplodocus_
 
-XXX
+XXX Iconic dinosaur, named by Marsh on inadequate caudals, _D_. _carnegii_ nearly complete, now known from ?three species (_longus_, _carnegii_, _hallorum_), _D_. _hayi_ now has its own genus _Galeamopus_, many skeletons in museums around the world -- not only Carnegie ones e.g. USNM, Frankfurt, Denver, ?Sauriermuseum.
 
 
 ### The Carnegie _Diplodocus_
 
-XXX
+XXX Carnegie a self-made man, desire to leave a legacy, funding museums, inspired by newspaper, funded expedition, discovery around 4 July, Hatcher's monograph.
 
 
 ### The casts of _Diplodocus_
 
-XXX
+XXX Skibo Castle, King Edward VII's request for a _Diplodocus_, Holland's suggestion of casting, idea to make multiple casts, locations where they were sent, cultural ubiquiry, most seen individual dinosaur, concrete cast in Vernal, second-generation molds and further casts, scan-and-print bronze model in front of NHM.
 
 
 ## The fate of the molds
@@ -70,37 +70,45 @@ XXX Pittsburgh, PA -> Rocky Mount, NC -> Houston, TX -> ???
 
 ## _One of Our Dinosaurs is Missing_
 
-XXX
+XXX Screencaps show (what? Real dorsals? Fake cervicals? What about appendicular elements?)
 
 
 
 ## _Star Wars_
 
-XXX
+XXX _OoODiM_ prop loaded into spare space in cargo plane, used opportunistically, subsequent naming as "Krayt Dragon", later development of this monster.
 
 
 
 ## Return to Tunisia
 
-XXX
+XXX David's documentary.
 
 
 
 ## Acknowledgements
 
-XXX
+XXX None yet, as everyone involved is an author. Likely to add archivists at MPAA, etc.
 
 
 
 ## References
 
-XXX
+* Hatcher, Jonathan B. 1901. _Diplodocus_ (Marsh): its osteology, taxonomy and probable habits, with a restoration of the skeleton. _Memoirs of the Carnegie Museum_ **1**:1-63 and plates I-XIII.
+* Holland, William J. 1905. The presentation of a reproduction of _Diplodocus carnegiei_ to the trustees of the British Museum. _Annals of the Carnegie Museum_ **3(3)**:443–452 and plates XVII-XVIII.
+* Holland, W. J. 1906. Osteology of _Diplodocus_ Marsh with special reference to the restoration of the skeleton of _Diplodocus carnegiei_ Hatcher presented by Mr Andrew Carnegie to the British Museum, May 12 1905. _Memoirs of the Carnegie Museum_ **2(6)**:225-278.
+* Marsh, Othniel C. 1878. Principal characters of American Jurassic dinosaurs, Part I. _American Journal of Science_, series 3, **16**:411-416.
+* Nieuwland, Ilja. 2019. _American dinosaur abroad: a cultural history of Carnegie's plaster Diplodocus_. University of Pittsburgh Press. ISBN: 978-0822945574. doi:10.2307/j.ctvh4zh5n
+* Taylor, Michael P., Amy C. Henrici, Linsly J. Church, Ilja Nieuwland and Matthew C. Lamanna. 2025. The history and composition of the Carnegie _Diplodocus_. _Annals of the Carnegie Museum_ **91(1)**:55–91. doi:10.2992/007.091.0104
+* Taylor, Michael P., Steven D. Sroka and Kenneth Carpenter. 2023. The Concrete _Diplodocus_ of Vernal — a Cultural Icon of Utah. _Geology of the Intermountain West_ **10**:65-91. doi:10.31711/giw.v10.pp65-91
+
+XXX More to come.
 
 
 
 ## Figure captions
 
-XXX
+XXX The Carnegie _Diplodocus_, quarry photo, Hatcher's skeletal reconstruction, one of the casts, Galeamopos mount, _OoODiM_ screencaps, _Star Wars_ screencaps, return to Tunisia screencaps, photos of recovered Tunisian elements (compared with Hatcher's plates).
 
 
 
