@@ -1,6 +1,12 @@
 # The Carnegie _Diplodocus_ in _Star Wars_: the convoluted origin of the Krayt Dragon
 
-_Authors as in [README.md](README.md)_.
+* **Michael P. Taylor.** Department of Earth Sciences, University of Bristol, Bristol BS8 1RJ, UK. <dino@miketaylor.org.uk> (corresponding author)
+* **Matthew C. Lamanna.** Section of Vertebrate Paleontology, Carnegie Museum of Natural History, Pittsburgh, Pennsylvania, USA.
+* **Michael J. Ryan.** Department of Earth Sciences, Carleton University, Ottawa, ON K1S 5B6, Canada.
+* **David West Reynolds.** XXX affiliation to follow.
+* **Mathew J. Wedel.** College of Osteopathic Medicine of the Pacific and College of Podiatric Medicine, Western University of Health Sciences, Pomona, CA, USA.
+
+
 
 ## Abstract
 
