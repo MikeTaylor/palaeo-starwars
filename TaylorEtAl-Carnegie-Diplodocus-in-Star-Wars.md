@@ -113,6 +113,8 @@ XXX Rocky Mount, NC
 
 XXX Houston, TX (used for HMNS "_D_." _hayi_ mount
 
+XXX Scottish request to Carnegie, response pointing to Arthur Pugh
+
 XXX Then where?
 
 
