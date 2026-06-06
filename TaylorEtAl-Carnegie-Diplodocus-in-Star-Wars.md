@@ -139,6 +139,8 @@ XXX _OoODiM_ prop loaded into spare space in cargo plane, used opportunistically
 
 XXX Subsequent naming as "Krayt Dragon"
 
+XXX Origin of name
+
 XXX Later development of this monster.
 
 
@@ -148,6 +150,12 @@ XXX Later development of this monster.
 XXX David's documentary.
 
 XXX Comparison of remaining elements to Carnegie _Diplodocus_.
+
+
+
+## Discussion
+
+XXX Umbaran Starfighter based on apatosaurine cervical
 
 
 
@@ -180,8 +188,11 @@ XXX More to come.
 * _Galeamopos_ mount
 * _OoODiM_ screencaps
 * _Star Wars_ screencaps
+* Krayt Dragon artwork, showing how wrong the skeleton is
 * Return to Tunisia screencaps
 * Photos of recovered Tunisian elements (compared with Hatcher's plates).
+* Kraytdraco spectatus
+* Umbaran starfighter and Apatosaurine cervical
 
 XXX More to come
 
